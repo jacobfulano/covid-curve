@@ -17,7 +17,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: covid-curve
-  tagline: Concerned Datascientists
+  tagline: Concerned Data Scientists
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
