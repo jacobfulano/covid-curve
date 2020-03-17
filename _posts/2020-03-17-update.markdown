@@ -5,8 +5,8 @@ date:   2020-03-17 13:17:00 +0530
 ---
 I want to post the following plot for confirmed cumulative cases in the US:
 
-![2020-3-16-US](assets/plots/2020-3-16-US.png)
-![2020-3-16-US](assets/plots/black.jpg)
+![2020-3-16-US](./assets/plots/2020-3-16-US.png)
+![2020-3-16-US](./assets/plots/black.jpg)
 
 ![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
