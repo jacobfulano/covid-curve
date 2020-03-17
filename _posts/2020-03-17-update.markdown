@@ -6,6 +6,7 @@ date:   2020-03-17 13:17:00 +0530
 I want to post the following plot for confirmed cumulative cases in the US:
 
 ![hello]({{ site.url }}/assets/plots/2020-3-16-US.png)
+![hello]({{ site.baseurl }}/assets/plots/2020-3-16-US.png)
 ![hello](assets/plots/2020-3-16-US.png)
 testing here
 ![2020-3-16-US]({{ site.url }}/assets/plots/black.jpg)
